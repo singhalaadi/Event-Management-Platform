@@ -82,9 +82,9 @@ event-management-platform/
 
 ## 📑 Dependencies
 This project uses the following dependencies:
-- React ^18.3.1
-- React DOM ^18.3.1
-- React Scripts ^5.0.1
+- React `^18.3.1` : https://reactjs.org/
+- React DOM `^18.3.1`
+- React Scripts `^5.0.1` : https://www.npmjs.com/package/react-scripts
   
 To install all dependencies, simply run:
 ```
