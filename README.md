@@ -1,7 +1,7 @@
 # 🎟 Event Management Platform
 
 ## 📌 Introduction
-The **Event Management Platform** is a web-based application built using **React** as part of an internship project. It allows users to explore events, navigate event details, and simulate ticket purchases with a responsive and interactive UI.
+The **Event Management Platform** is a web-based application built using **React**. It allows users to explore events, navigate event details, and simulate ticket purchases with a responsive and interactive UI.
 
 ---
 
